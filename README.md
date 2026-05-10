@@ -98,3 +98,24 @@ Instead, use:
 ```
 
 or manually start multiple client containers.
+
+## Citation
+If you find this work useful, please consider citing:
+```bibtex
+@InProceedings{10.1007/978-3-032-23607-4_1,
+author="Genetti, Stefano
+and Micheli, Enrico
+and Custode, Leonardo Lucio
+and Iacca, Giovanni",
+editor="Garc{\'i}a-S{\'a}nchez, Pablo
+and D{\'i}az {\'A}lvarez, Josefa
+and Murphy, Aidan",
+title="Interpretable Federated Reinforcement Learning for Large-Scale Distributed HVAC Control",
+booktitle="Applications of Evolutionary Computation",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="3--21",
+isbn="978-3-032-23607-4"
+}
+```
